@@ -38,7 +38,7 @@ The dataset includes the following attributes for each student:
 ## Analysis Questions
 
 We have attempted the following basic questions to gain insights from the dataset:
-
+**Easy Questions**
 1. **How many unique students are included in the dataset?**
 2. **What is the average GPA of the students?**
 3. **What is the distribution of students across different graduation years?**
