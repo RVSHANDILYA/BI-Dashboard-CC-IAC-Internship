@@ -37,7 +37,7 @@ The dataset includes the following attributes for each student:
 
 ## Analysis Questions
 
-We have attempted the following basic questions to gain insights from the dataset:
+We have attempted the following questions to gain insights from the dataset:
 **Easy Questions**
 1. **How many unique students are included in the dataset?**
 2. **What is the average GPA of the students?**
@@ -50,3 +50,13 @@ We have attempted the following basic questions to gain insights from the datase
 9. **Can we identify any relationship between family income and GPA?**
 
 
+### MODERATE QUESTIONS:
+
+1. **How many students from various cities? (Solve using a data visualization tool).**
+2. **How does the expected salary vary based on factors like 'GPA', 'Family income', 'Experience with Python (Months)'?**
+3. **Which event tends to attract more students from specific fields of study?**
+4. **Do students in leadership positions during their college years tend to have higher GPAs or better expected salaries?**
+5. **How many students are graduating by the end of 2024?**
+6. **Which promotion channel brings in more student participation for the event?**
+7. **Those who have high CGPA and more experience in language have higher expectations for salary? (Average)**
+8. **How many students know about the event from their colleges? Which are the top 5 colleges?**
