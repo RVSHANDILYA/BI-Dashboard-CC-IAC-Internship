@@ -1,6 +1,6 @@
 # BI-Dashboard-CC-IAC
 # Project Title
-# Student Internship Analysis
+# Student Analysis
 
 ## Problem Statement
 
